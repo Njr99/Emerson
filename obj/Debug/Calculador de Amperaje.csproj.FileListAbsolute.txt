@@ -1,0 +1,50 @@
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\Calculador de Amperaje.exe.config
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\Calculador de Amperaje.exe
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\Calculador de Amperaje.pdb
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\obj\Debug\Calculador_de_Amperaje.Form1.resources
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\obj\Debug\Calculador_de_Amperaje.Properties.Resources.resources
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\obj\Debug\Calculador de Amperaje.csproj.GenerateResource.cache
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\obj\Debug\Calculador de Amperaje.csproj.CoreCompileInputs.cache
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\obj\Debug\Calculador de Amperaje.exe
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\obj\Debug\Calculador de Amperaje.pdb
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\ExcelMapper.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\NPOI.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\NPOI.OOXML.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\NPOI.OpenXml4Net.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.Buffers.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.Memory.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.Numerics.Vectors.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.Text.Encodings.Web.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.Text.Json.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.ValueTuple.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\BouncyCastle.Crypto.xml
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\ExcelMapper.xml
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.Buffers.xml
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.Memory.xml
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.Numerics.Vectors.xml
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.Text.Encodings.Web.xml
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.Text.Json.xml
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.ValueTuple.xml
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\obj\Debug\Calculador de Amperaje.csprojAssemblyReference.cache
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\obj\Debug\Calculador de Amperaje.csproj.CopyComplete
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\DocumentFormat.OpenXml.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\SpreadsheetLight.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.Drawing.Common.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.IO.Packaging.dll
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\DocumentFormat.OpenXml.xml
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\SpreadsheetLight.xml
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\bin\Debug\System.IO.Packaging.xml
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\obj\Debug\Calculador_de_Amperaje.Form3.resources
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\obj\Debug\Calculador de Amperaje.csproj.ResolveComReference.cache
+D:\C#\WindowsFormsApp1\Calculador de Amperaje\obj\Debug\Calculador_de_Amperaje.Form4.resources
